@@ -1,2 +1,2 @@
 # My-Projects
-Hi! This repository contains all my completed programming projects.
+This repository contains all my completed and ongoing programming projects
